@@ -1,5 +1,5 @@
 # Analyze-and-Retrieve-Data-with-SQL
-hotel historical revenue in a year
+Hotel historical revenue in a year. This project will use a dashboard using PowerBI to present to your stakeholders. Is our hotel revenue growing by year? Should we increase our parking lot size? What trends can we see in the data?
 This project will has 4 steps like following:
 1. Build a Database
 2. Analyze and Retrieve Data with SQL
